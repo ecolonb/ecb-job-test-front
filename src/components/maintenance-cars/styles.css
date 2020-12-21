@@ -1,0 +1,9 @@
+.table-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 55px;
+}
+table img {
+  width: 200px;
+  height: auto;
+}

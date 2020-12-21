@@ -1,0 +1,6 @@
+{
+    "api-key":"abcd",
+    "server":"https://ecb-back-test.herokuapp.com/api",
+    "getAllCars":"/cars/all",
+    "maintenance": "/cars/maintenance"
+}

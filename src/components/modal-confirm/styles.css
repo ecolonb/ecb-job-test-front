@@ -1,0 +1,31 @@
+.modal-page {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 100000000;
+  background-color: rgba(85, 85, 85, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-page .modal-form {
+  width: 400px;
+  height: 300px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.modal-page .modal-form .buttons-area {
+  width: 80%;
+  margin: 89px auto 21px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.modal-page .modal-form .buttons-area button:nth-child(1) {
+  margin-right: 34px;
+}
